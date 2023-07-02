@@ -25,8 +25,6 @@ int prox_value;
 
 void setup() {
 
-  Serial.begin(9600);
-
   //VNCL setup
   Wire.begin();
   //turns on sensor

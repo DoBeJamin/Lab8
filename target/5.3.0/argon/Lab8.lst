@@ -10818,10 +10818,10 @@ TwoWire& __fetch_global_Wire()
    b8040:	0000 0000 6143 6c6c 6f20 206e 7570 6572     ....Call on pure
    b8050:	7620 7269 7574 6c61 2500 0069 6c25 0069      virtual.%i.%li.
    b8060:	6e69 6f00 7475 7000 6d77 6400 0077 7761     in.out.pwm.dw.aw
-   b8070:	7400 706d 006c 4d54 4c50 4b32 5258 3069     .tmpl.TMPL2KXRi0
-   b8080:	6530 0073 7776 3900 3372 4d50 4b76 3736     0es.vw.9r3PMvK67
-   b8090:	5871 4954 5055 3057 7547 344b 596d 634f     qXTIUPW0GuK4mYOc
-   b80a0:	782d 5854 6156 0031 6c62 6e79 2e6b 6c63     -xTXVa1.blynk.cl
+   b8070:	7400 706d 006c 4d54 4c50 7232 6a45 6879     .tmpl.TMPL2rEjyh
+   b8080:	4a5f 006e 7776 3700 335a 2d66 3365 3377     _Jn.vw.7Z3f-e3w3
+   b8090:	7952 6b48 4970 4a72 3767 6655 4444 377a     RyHkpIrJg7UfDDz7
+   b80a0:	544c 7039 784c 0035 6c62 6e79 2e6b 6c63     LT9pLx5.blynk.cl
    b80b0:	756f 0064                                   oud.
 
 000b80b4 <_ZZN8BlynkApiI13BlynkProtocolI22BlynkTransportParticleEE8sendInfoEvE7profile>:
@@ -10829,9 +10829,9 @@ TwoWire& __fetch_global_Wire()
    b80c4:	0030 2d68 6562 7461 3400 0035 7562 6666     0.h-beat.45.buff
    b80d4:	692d 006e 3031 3432 6400 7665 5000 7261     -in.1024.dev.Par
    b80e4:	6974 6c63 2065 7241 6f67 006e 7766 742d     ticle Argon.fw-t
-   b80f4:	7079 0065 4d54 4c50 4b32 5258 3069 6530     ype.TMPL2KXRi00e
-   b8104:	0073 7562 6c69 0064 754a 206c 3120 3220     s.build.Jul  1 2
-   b8114:	3230 2033 3931 333a 3a32 3532 0000 6400     023 19:32:25...d
+   b80f4:	7079 0065 4d54 4c50 7232 6a45 6879 4a5f     ype.TMPL2rEjyh_J
+   b8104:	006e 7562 6c69 0064 754a 206c 3120 3220     n.build.Jul  1 2
+   b8114:	3230 2033 3931 353a 3a33 3534 0000 6400     023 19:53:45...d
    b8124:	6665 7561 746c 0020 534d 0042 534c 0042     efault .MSB.LSB.
    b8134:	533c 4950 6553 7474 6e69 7367 6420 6665     <SPISettings def
    b8144:	7561 746c 003e 533c 4950 6553 7474 6e69     ault>.<SPISettin
